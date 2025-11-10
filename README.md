@@ -1,15 +1,7 @@
 <h1 align="center">Hola 👋, soy Víctor López</h1>
-<h3 align="center">Ingeniero Telemático especializado en Ciberseguridad e Inteligencia Artificial</h3>
-
-- 💼 Actualmente estoy trabajando en una herramienta de anotación y clasificación de textos en inglés basada en la teoría **Semantic Density** de la **LCT** → [Automatic Annotation System](https://github.com/Victorlpzv22/Automatic-Annotation-System)
-
-- 🎓 Estoy cursando un **Máster en Ciberseguridad**
-
-- 🌱 Me estoy formando en: **Redes Neuronales, NLP, Transformers, Machine Learning**
+<h3 align="center">Máster en Ciberseguridad e Ingeniero de Telecomunicaciones</h3>
 
 - 💻 Todos mis proyectos están disponibles en: [github.com/Victorlpzv22](https://github.com/Victorlpzv22)
-
-- 💬 Pregúntame sobre: **Python, C++, C#, Java, Inteligencia Artificial, Redes y PLCs**
 
 - 📫 Cómo contactarme: **victorlopezvalero2001@gmail.com**
 
@@ -53,3 +45,4 @@
 ---
 
 <h3 align="center">🚀 Siempre aprendiendo y construyendo tecnología que conecta inteligencia y sistemas.</h3>
+
