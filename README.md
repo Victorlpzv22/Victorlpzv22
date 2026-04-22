@@ -1,48 +1,78 @@
-<h1 align="center">Hola 👋, soy Víctor López</h1>
-<h3 align="center">Máster en Ciberseguridad e Ingeniero de Telecomunicaciones</h3>
+<div align="center">
 
-- 💻 Todos mis proyectos están disponibles en: [github.com/Victorlpzv22](https://github.com/Victorlpzv22)
+# ¡Hola! Soy Víctor López 👋
 
-- 📫 Cómo contactarme: **victorlopezvalero2001@gmail.com**
+### 🛡️ Cybersecurity & Automation Engineer | DevSecOps @ Telefónica Labs
 
----
-
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victor-lopez-valero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-lopez-valero" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorlopezvalero/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:victorlopezvalero2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
----
-
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Siemens-logo.svg" alt="siemens" width="40" height="40"/> </a>
-<a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" alt="cisco" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> </a>
-</p>
+*«Automatizando la seguridad y blindando infraestructuras críticas en redes de nueva generación»*
 
 ---
 
-<h3 align="left">Áreas de interés:</h3>
+</div>
 
-- Ciberseguridad y redes  
-- Inteligencia artificial y aprendizaje automático  
-- Procesamiento de lenguaje natural (NLP)  
-- Control automático e ingeniería industrial  
-- PLC Siemens y automatización industrial  
-- Robótica (Fanuc, simulación con ROBOGUIDE)
+## 👨‍💻 Sobre mí
+
+Ingeniero de Ciberseguridad con background en Telemática, enfocado en el diseño de arquitecturas seguras y la automatización de procesos críticos. Actualmente trabajo en los laboratorios de innovación creando herramientas "a medida" para entornos multi-vendor.
+
+- 🔭 **Actualmente trabajando en:** Frameworks de automatización y **Bastionado IP** para redes Core, Transporte y NGN en Telefónica.
+- ⚙️ **Mi enfoque:** Aplicar metodologías **DevSecOps** para transformar validaciones de seguridad manuales en pipelines CI/CD robustos y escalables.
+- 🔐 **Intereses:** Red Teaming, Gestión centralizada de secretos, Arquitecturas Zero Trust y automatización industrial.
+- 🎓 **Background:** Máster en Ciberseguridad (UPM) e Ingeniería de Telecomunicaciones. Experiencia previa en NLP y Robótica.
 
 ---
 
-<h3 align="center">🚀 Siempre aprendiendo y construyendo tecnología que conecta inteligencia y sistemas.</h3>
+## 🛠️ Stack Tecnológico y Herramientas
 
+<div align="center">
+
+### DevSecOps & Automatización
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white" alt="HashiCorp Vault" />
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=Robot-Framework&logoColor=white" alt="Robot Framework" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
+
+### Desarrollo & Scripting
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=Gnu-Bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas" />
+
+### Redes, OS & Vendor
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/Nokia-124191?style=for-the-badge&logo=Nokia&logoColor=white" alt="Nokia" />
+<img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=Huawei&logoColor=white" alt="Huawei" />
+<img src="https://img.shields.io/badge/Fortinet-C81326?style=for-the-badge&logo=Fortinet&logoColor=white" alt="Fortinet" />
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+  <a href="https://github.com/Victorlpzv22">
+    <img src="https://github-readme-stats.vercel.app/api?username=Victorlpzv22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Victorlpzv22">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorlpzv22&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victorlpzv22&color=blueviolet&style=flat-square&label=VISITAS+AL+PERFIL" alt="Profile views" />
+</div>
